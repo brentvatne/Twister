@@ -4,13 +4,13 @@
 
 'use strict';
 
-let React = require('react-native');
-let {
+import React from 'react';
+import {
   StyleSheet,
   Text,
   View,
   Animated
-} = React;
+} from 'react-native';
 
 let {
   slice,

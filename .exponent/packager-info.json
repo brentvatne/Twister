@@ -1,0 +1,8 @@
+{
+  "exponentServerPort": 19000,
+  "packagerPort": 19002,
+  "packagerPid": 82367,
+  "exponentServerNgrokUrl": "https://wx-c7j.community.twister.exp.direct",
+  "packagerNgrokUrl": "https://packager.wx-c7j.community.twister.exp.direct",
+  "ngrokPid": 82380
+}

@@ -4,8 +4,8 @@
 
 'use strict';
 
-let React = require('react-native');
-let {
+import React from 'react';
+import {
   StyleSheet,
   Text,
   View,
@@ -13,7 +13,7 @@ let {
   Image,
   TouchableHighlight,
   TouchableWithoutFeedback
-} = React;
+} from 'react-native';
 
 let Actions = require('Actions');
 let {Colors, Dimensions, BaseStyles} = require('Constants');

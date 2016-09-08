@@ -4,10 +4,10 @@
 
 'use strict';
 
-let React = require('react-native');
-let {
+import React from 'react';
+import {
   Dimensions
-} = React;
+} from 'react-native';
 
 const windowHeight = Dimensions.get('window').height;
 const windowWidth = Dimensions.get('window').width;

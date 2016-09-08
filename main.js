@@ -6,12 +6,11 @@
 let React = require('react-native');
 let {
   AppRegistry,
-  StatusBarIOS
 } = React;
 
-if (StatusBarIOS) {
-  StatusBarIOS.setHidden(true);
-}
+// if (StatusBarIOS) {
+//   StatusBarIOS.setHidden(true);
+// }
 
 let TwisterScreen = require('TwisterScreen');
 
