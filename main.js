@@ -3,6 +3,7 @@
  */
 'use strict';
 
+import Exponent from 'exponent';
 let React = require('react-native');
 let {
   AppRegistry,
